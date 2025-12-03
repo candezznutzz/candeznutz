@@ -1,0 +1,32 @@
+body{
+    background-color: cornflowerblue;
+    
+}
+
+h1{
+    color: aqua;
+    background-color: aliceblue;
+    }
+     
+    h2{
+        color: darksalmon;
+        background-color: salmon;
+    }
+
+    h4{
+        color: indianred;
+        background-color: indigo;
+    }
+    p{
+        color: coral;
+        background-color: cornflowerblue;
+    }
+
+
+img{
+    border-radius:4px;
+    padding: 5px;
+    width:150px;
+    border:1px solid white;
+   }
+    
